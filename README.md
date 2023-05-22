@@ -6,3 +6,6 @@
 3. Once Created Activate the virtual environment
 4. Install the packages from the requierments.txt
 5. Run the application using ```flask --app aigen run```
+
+## PROPOSED SYTEM FOR THE WEB APPLICATION![image](https://github.com/Gowtham58/AiGEN/assets/75661938/7ebfb2ef-022d-4275-88b7-2e1460bef03e)
+

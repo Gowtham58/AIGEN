@@ -7,5 +7,13 @@
 4. Install the packages from the requierments.txt
 5. Run the application using ```flask --app aigen run```
 
-## PROPOSED SYTEM FOR THE WEB APPLICATION![image](https://github.com/Gowtham58/AiGEN/assets/75661938/7ebfb2ef-022d-4275-88b7-2e1460bef03e)
+## PROPOSED SYTEM FOR THE WEB APPLICATION
+The system is divided into two parts: Getting the input from the user, Display the generated output to the user. 
+
+The music and image is generated using publicly available pre-trained models through Inference API from HuggingFace.
+
+Image Generating Model: Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input
+
+Music Generating Model: Riffusion is a latent text-to-image diffusion model capable of generating spectrogram images given any text input. These spectrograms can be converted into audio clips.
+
 

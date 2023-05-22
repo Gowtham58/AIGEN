@@ -5,5 +5,5 @@
 2. Create a python virtual environment using python -m venv
 3. Once Created Activate the virtual environment
 4. Install the packages from the requierments.txt
-5. Run the application using '''python
-flask --app aigen run'''
+5. Run the application using ```python 
+flask --app aigen run```

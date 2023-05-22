@@ -18,6 +18,7 @@ Music Generating Model: __Riffusion__ is a latent text-to-image diffusion model 
 SAMPLE 1:
 
 ![image](https://github.com/Gowtham58/AiGEN/assets/75661938/72cf1d9e-5b8c-4b28-a504-340264af8aae)
+
 SAMPLE 2:
 
 ![image](https://github.com/Gowtham58/AiGEN/assets/75661938/1b1c5a23-b1ae-484a-b1d2-888f37c9a868)

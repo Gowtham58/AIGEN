@@ -10,10 +10,10 @@
 ## PROPOSED SYTEM FOR THE WEB APPLICATION
 The system is divided into two parts: Getting the input from the user, Display the generated output to the user. 
 
-The music and image is generated using publicly available pre-trained models through Inference API from HuggingFace.
+The music and image is generated using publicly available __pre-trained models__ through Inference API from __HuggingFace__.
 
-Image Generating Model: Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input
+Image Generating Model: __Stable Diffusion__ is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input
 
-Music Generating Model: Riffusion is a latent text-to-image diffusion model capable of generating spectrogram images given any text input. These spectrograms can be converted into audio clips.
+Music Generating Model: __Riffusion__ is a latent text-to-image diffusion model capable of generating spectrogram images given any text input. These spectrograms can be converted into audio clips.
 
 
